@@ -1,2 +1,2 @@
 # Cods_python_exe2
-Exercicios com python
+Exercicios de lógica com python
